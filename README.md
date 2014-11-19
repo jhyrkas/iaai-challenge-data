@@ -3,7 +3,7 @@ SeaFlowIAAIChallenge
 
 This repository exists to provide instructions and information about the SeaFlow
 data association with the IAAI Challenge Paper. This data set contains data from
-three relatively small SeaFlow cruises, the Thompson 0, 1, and 10 cruises, respectively.
+three relatively small SeaFlow cruises, the Thompson 0, 1, and 11 cruises, respectively.
 
 Each record of the data represents one observed particle (after filtering).
 SeaFlow data has the following schema for all particles:
