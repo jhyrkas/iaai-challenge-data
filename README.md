@@ -31,12 +31,16 @@ These four dimensions are the measurements typically used to cluster SeaFlow dat
 but because some automation was used in labeling, it is possible that the label will be an integer.
 Integer labeled particles can be ignored for testing goodness of a classifier.
 
-Follow the link below for four data sets:
+Follow the links below for four data sets:
 
 * Thompson 0 data (~1.1GB compressed)
+..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson0.csv.gz
 * Thompson 1 data (~600MB compressed)
+..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1.csv.gz
 * Thompson 11 data (~1.1GB compressed)
+..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson11.csv.gz
 * Subset of Thompson 1 data for smaller analysis and debugging (41MB compressed)
+..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1_sample.csv.gz
 
 PROVIDE LINK HERE
 
@@ -44,3 +48,7 @@ NOTE: More SeaFlow data sets (many larger than those provided) are available thr
 database at the University of Washington. Many of these data sets have rough labels provided 
 by automated methods or no labels at all. Please contact the authors if you would like to 
 explore these data sets.
+
+Jeremy Hyrkas (hyrkas AT cs DOT washington DOT edu)
+Daniel Halperin (dhalperi AT cs DOT washington DOT edu)
+Bill Howe (billhowe AT cs DOT washington DOT edu)
