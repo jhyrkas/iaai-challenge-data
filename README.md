@@ -42,8 +42,6 @@ Follow the links below for four data sets:
 * Subset of Thompson 1 data for smaller analysis and debugging (41MB compressed)
   https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1_sample.csv.gz
 
-PROVIDE LINK HERE
-
 NOTE: More SeaFlow data sets (many larger than those provided) are available through the Myria
 database at the University of Washington. Many of these data sets have rough labels provided 
 by automated methods or no labels at all. Please contact the authors if you would like to 
