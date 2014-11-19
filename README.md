@@ -34,13 +34,13 @@ Integer labeled particles can be ignored for testing goodness of a classifier.
 Follow the links below for four data sets:
 
 * Thompson 0 data (~1.1GB compressed)
-..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson0.csv.gz
+  https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson0.csv.gz
 * Thompson 1 data (~600MB compressed)
-..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1.csv.gz
+  https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1.csv.gz
 * Thompson 11 data (~1.1GB compressed)
-..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson11.csv.gz
+  https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson11.csv.gz
 * Subset of Thompson 1 data for smaller analysis and debugging (41MB compressed)
-..* https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1_sample.csv.gz
+  https://s3.amazonaws.com/hyrkas.iaai.2015.seaflow.data/thompson1_sample.csv.gz
 
 PROVIDE LINK HERE
 
